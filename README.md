@@ -1,5 +1,5 @@
 #### Introduction
-This is the first assignment of the Computer Vision and Deep Learning course at NCKU, aiming to implement techniques such as Camera Calibration, Augmented Reality, Stereo Disparity Map, SIFT, and Training a CIFAR10 Classifier Using VGG19 with BN.
+This is the first assignment of the "Computer Vision and Deep Learning" course at NCKU, aiming to implement techniques such as Camera Calibration, Augmented Reality, Stereo Disparity Map, SIFT, and Training a CIFAR10 Classifier Using VGG19 with BN.
 
 #### Establishing Environment
 I set up the development environment using Virtualenv, and downloaded relevant packages as follows:
